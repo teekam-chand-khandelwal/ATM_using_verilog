@@ -1,5 +1,9 @@
 # ATM_using_verilog
-Using Verilog
+Using Verilog 
+In this resiporatory having following (1) input signals:-
+
+
+(2) output signals
 
 
 Console output when balance enquary:-
