@@ -7,6 +7,7 @@ In this resiporatory having following (1) input signals:-
 
 (2) output signals
 
+![image](https://user-images.githubusercontent.com/72481400/114235169-6b0f1d80-999d-11eb-860e-d9be4741b6a0.png)
 
 Console output when balance enquary:-
 
