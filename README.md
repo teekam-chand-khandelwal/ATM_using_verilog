@@ -2,6 +2,8 @@
 Using Verilog 
 In this resiporatory having following (1) input signals:-
 
+![image](https://user-images.githubusercontent.com/72481400/114233985-c17b5c80-999b-11eb-8d8c-949c5d43d7c7.png)
+
 
 (2) output signals
 
